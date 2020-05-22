@@ -1,0 +1,5 @@
+# ignore these files
+*.obj
+*.bin
+*.sym
+*.lst
